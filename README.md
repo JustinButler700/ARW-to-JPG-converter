@@ -12,6 +12,5 @@ Once these are installed, place my bash script into the folder containing your .
 On Linux & Mac : ./convert.sh 
 On Windows : convert.sh
 
-When you run the script, you can also provide it a file path to place the images into.
-example: convert.sh -p \converted
 
+It will place all converted files into a file called "converted" (within the same directory you run it)
