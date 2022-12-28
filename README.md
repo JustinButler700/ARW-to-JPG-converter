@@ -1,5 +1,5 @@
 # ARW-to-JPG-converter
-Quick and easy back script to convert all ARW files in a folder to JPGs
+Quick and easy Bash script to convert all ARW files in a folder to JPGs
 
 
 Dependencies: You need to have [ImageMagick](https://imagemagick.org/script/download.php) installed.
